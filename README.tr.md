@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://teamdesk.mk"><img src="assets/teamdesk-hero.svg" width="100%" alt="TeamDesk — Training first. Performance always. — PROCESS IN product showcase" /></a>
+# TeamDesk
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/teamdesk-hero.svg" width="100%" alt="TeamDesk — ürün görsel sunumu" />
+
+**Önce antrenman. Daima performans.**
 
 [![Official Website](https://img.shields.io/badge/TEAMDESK_MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://teamdesk.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PRODUCT-17191D?style=for-the-badge)](https://teamdesk.mk)
 [![Developer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Önce antrenman. Daima performans.
-
-**Önce antrenman. Daima performans.**
+**LIVE**
 
 </div>
-
----
 
 ## Antrenman merkezde
 
@@ -71,7 +63,7 @@ Antrenman planlayıcı, basketbol koçluk yazılımı, hentbol yönetimi, sporcu
 |---|---|
 | Ürün | TeamDesk |
 | Resmî site | [teamdesk.mk](https://teamdesk.mk) |
-| Kategori | Spor antrenmanı ve performans işletim sistemi |
+| Kategori | Antrenman, koçluk ve sporcu performansı |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
